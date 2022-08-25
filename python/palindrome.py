@@ -7,4 +7,4 @@ while temp > 0:
 if pal == num:
     print("Palindrome \n")
 else:
-    print("Not Palindrome)
+    print("Not Palindrome")
